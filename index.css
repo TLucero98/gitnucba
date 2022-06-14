@@ -1,0 +1,191 @@
+
+
+.logo{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    padding: 0;
+margin:10px
+;
+}
+
+nav{
+    width: 30%;
+}
+
+.listanav{
+width: 100%;
+    list-style: none;
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 0;
+margin: 0;
+
+}
+
+
+
+a{
+    color: #270043;
+    text-decoration: none;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: larger;
+    
+}
+
+header{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #fdba3c;
+    padding: 0;
+    margin:0;
+
+}
+
+body{
+    margin: 0;
+    background-color: #270043;
+}
+
+.descrip{
+    color: #fdba3c;
+    text-decoration: none;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: larger;
+    align-items: center;
+    text-align: center;
+    
+}
+
+h1{
+margin-top: 50px;
+
+}
+ul{
+    list-style: none;
+}
+
+.container{
+
+display: flex;
+flex-direction: row;
+align-items: center;
+
+}
+.elegirnos{
+    margin-top: 10%;
+    height: 25%;
+    width: 100%;
+    color: #fdba3c;
+    text-decoration: none;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: larger;
+    align-items: center;
+    text-align: center;
+    
+
+}
+
+.fa-solid{
+width: 100%;
+height: 10%;
+    display: flex;
+align-items:flex-start ;
+flex-direction: column;
+
+}
+
+.primero{
+
+height: 30%;
+width: 33%;
+display: flex;
+align-items:center ;
+flex-direction: column;
+margin: 0px;
+}
+
+.segundo{
+    
+width: 33%;
+height: 30%;
+display: flex;
+align-items:center ;
+flex-direction: column;
+margin: 0px;
+
+}
+
+.tercero{
+    height: 30%;
+    width: 33%;
+    display: flex;
+    align-items:center ;
+    flex-direction: column;
+    margin: 0px;
+
+
+}
+
+.pasos{
+    color: #fdba3c;
+    text-decoration: none;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: larger;
+    align-items: center;
+    text-align: center;
+    height: 25%;
+    width: 100%;
+}
+.container2{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+
+
+
+}
+
+.paso1{
+    height: 33%;
+    
+    display: flex;
+    align-items:center ;
+    flex-direction: column;
+    margin: 0px;
+
+}
+
+.paso2{
+    height: 33%;
+    
+    display: flex;
+    align-items:center ;
+    flex-direction: column;
+    margin: 0px;
+
+}
+
+.paso3{
+    height: 33%;
+    
+    display: flex;
+    align-items:center ;
+    flex-direction: column;
+    margin: 0px;
+
+}
+
+.paso4{
+    height: 33%;
+ 
+    display: flex;
+    align-items:center ;
+    flex-direction: column;
+    margin: 0px;
+
+}
